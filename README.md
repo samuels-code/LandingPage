@@ -1,2 +1,2 @@
 # LandingPage
-Criando uma LandingPage deidicada ao One Piece!
+Criando uma LandingPage dedicada ao One Piece!
